@@ -120,8 +120,9 @@ button{
 @media (min-width: 770px){
 
     body{
-        background-image: url(images/pattern-background-desktop.svg);
+        background-image: url(images/pattern-background-desktop.svg), #E1E9Ff;
         background-size: contain;
+        background-repeat: no-repeat, no-repeat;
     }
     .workTable{
         width: 450px;
